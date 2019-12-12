@@ -1,4 +1,4 @@
-# Spark Fund Investment Case Study based on Global trends
+# Spark Fund Investment Case Study
 Investing money is an art and always investment should be rational, sensible, quantified, logical etc. Spark Funds is an asset management fund and want to invest in few companies by identifying the best sector, country and suitable investment Type. In this project based on my understanding, details and data provided, I have come out with the solution of where to actually invest money based on some constraint provided by Spark funds.
 Here I applied CRISP-DM framework in order to select best sector and country. Steps Involved are : -
 Business Understanding
